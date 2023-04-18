@@ -5,5 +5,6 @@ export default function Message() {
     useEffect(() => {
     }, [])
 
+
     return  <h2>{message}</h2>
 }
